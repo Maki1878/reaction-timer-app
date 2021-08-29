@@ -1,19 +1,24 @@
-# reaction-timer
+# Reaction timer app
 
-## Project setup
+## Install dependencies
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Serve on localhost:8080
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Build for production with minification
+
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## App info
+
+- Click Play and wait until a red box appears
+- As soon as the box appears, click it as fast as you can to see your reaction time
